@@ -1,1 +1,1 @@
-# basic-server bult with node
+# basic-server built with node
